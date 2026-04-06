@@ -96,3 +96,4 @@ test.describe('Поиск вкладок и уведомлений по роля
     await expect(successAlert).toHaveClass(/alert-success/);
   });
 });
+
